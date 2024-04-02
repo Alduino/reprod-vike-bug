@@ -1,0 +1,15 @@
+{
+    "name": "reprod",
+    "type": "module",
+    "scripts": {
+        "build": "vite build"
+    },
+    "dependencies": {
+        "vike": "0.4.168"
+    },
+    "devDependencies": {
+        "@vanilla-extract/vite-plugin": "4.0.7",
+        "vite": "5.2.7"
+    },
+    "packageManager": "pnpm@8.15.5"
+}
